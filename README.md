@@ -1,4 +1,4 @@
-# Unabomber
+# Unabomber - Theodore Kaczynski
 Canal Colecionador de Ossos
 
 # Fontes e Referências da matéria:
